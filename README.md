@@ -1,6 +1,6 @@
 ## Xuan-Xuann
 
-Hi, I'm YuXuann.Welcome to my main Github page.I'm a student and don't have a lot of time to write projects, but I'm forever learning!🫠
+Hi, I'm YuXuann.Welcome to my main Github page.I'm a student and don't have a lot of time to write projects, but I'm forever learning!
 
 ## Activity
 
