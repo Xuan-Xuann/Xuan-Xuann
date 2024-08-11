@@ -1,6 +1,8 @@
 ## Xuan-Xuann
 
 Hi, I'm YuXuann.Welcome to my main Github page.I'm a student and don't have a lot of time to write projects, but I'm forever learning!
+高考加油！     Good luck on the college entrance examination！
+我们顶峰相见！     See you at the top!
 
 ## Activity
 
