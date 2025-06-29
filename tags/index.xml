@@ -2,65 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on YuXuann</title>
-        <link>https:Xuan-Xuann.github.iotags/</link>
+        <link>https://Xuan-Xuann.github.io/tags/</link>
         <description>Recent content in Tags on YuXuann</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>HeYurXuann</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https:Xuan-Xuann.github.iotags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 26 Jun 2025 22:32:47 +0800</lastBuildDate><atom:link href="https://Xuan-Xuann.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>高三</title>
+        <link>https://Xuan-Xuann.github.io/tags/%E9%AB%98%E4%B8%89/</link>
+        <pubDate>Thu, 26 Jun 2025 22:32:47 +0800</pubDate>
+        
+        <guid>https://Xuan-Xuann.github.io/tags/%E9%AB%98%E4%B8%89/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>个人使用</title>
+        <link>https://Xuan-Xuann.github.io/tags/%E4%B8%AA%E4%BA%BA%E4%BD%BF%E7%94%A8/</link>
+        <pubDate>Thu, 26 Jun 2025 22:32:47 +0800</pubDate>
+        
+        <guid>https://Xuan-Xuann.github.io/tags/%E4%B8%AA%E4%BA%BA%E4%BD%BF%E7%94%A8/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>学习方法</title>
+        <link>https://Xuan-Xuann.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/</link>
+        <pubDate>Thu, 26 Jun 2025 22:32:47 +0800</pubDate>
+        
+        <guid>https://Xuan-Xuann.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Css</title>
-        <link>https:Xuan-Xuann.github.iotags/css/</link>
+        <link>https://Xuan-Xuann.github.io/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https:Xuan-Xuann.github.iotags/css/</guid>
+        <guid>https://Xuan-Xuann.github.io/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Html</title>
-        <link>https:Xuan-Xuann.github.iotags/html/</link>
+        <link>https://Xuan-Xuann.github.io/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https:Xuan-Xuann.github.iotags/html/</guid>
+        <guid>https://Xuan-Xuann.github.io/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown</title>
-        <link>https:Xuan-Xuann.github.iotags/markdown/</link>
+        <link>https://Xuan-Xuann.github.io/tags/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https:Xuan-Xuann.github.iotags/markdown/</guid>
+        <guid>https://Xuan-Xuann.github.io/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https:Xuan-Xuann.github.iotags/themes/</link>
+        <link>https://Xuan-Xuann.github.io/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https:Xuan-Xuann.github.iotags/themes/</guid>
+        <guid>https://Xuan-Xuann.github.io/tags/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag With Whitespaces</title>
-        <link>https:Xuan-Xuann.github.iotags/tag-with-whitespaces/</link>
+        <link>https://Xuan-Xuann.github.io/tags/tag-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https:Xuan-Xuann.github.iotags/tag-with-whitespaces/</guid>
+        <guid>https://Xuan-Xuann.github.io/tags/tag-with-whitespaces/</guid>
         <description></description>
         </item>
         <item>
         <title>Text</title>
-        <link>https:Xuan-Xuann.github.iotags/text/</link>
+        <link>https://Xuan-Xuann.github.io/tags/text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https:Xuan-Xuann.github.iotags/text/</guid>
+        <guid>https://Xuan-Xuann.github.io/tags/text/</guid>
         <description></description>
         </item>
         <item>
         <title>Emoji</title>
-        <link>https:Xuan-Xuann.github.iotags/emoji/</link>
+        <link>https://Xuan-Xuann.github.io/tags/emoji/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https:Xuan-Xuann.github.iotags/emoji/</guid>
+        <guid>https://Xuan-Xuann.github.io/tags/emoji/</guid>
         <description></description>
         </item>
         
